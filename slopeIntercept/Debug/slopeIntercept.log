@@ -1,0 +1,11 @@
+﻿  line.cpp
+C:\Users\jjbur\OneDrive - Florida Gulf Coast University\2020_2021_School_Year\Spring_2021\COP 2001\Breakout_src\Final Project\slopeIntercept\line.cpp(137,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jjbur\OneDrive - Florida Gulf Coast University\2020_2021_School_Year\Spring_2021\COP 2001\Breakout_src\Final Project\slopeIntercept\line.cpp(153,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jjbur\OneDrive - Florida Gulf Coast University\2020_2021_School_Year\Spring_2021\COP 2001\Breakout_src\Final Project\slopeIntercept\line.cpp(154,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jjbur\OneDrive - Florida Gulf Coast University\2020_2021_School_Year\Spring_2021\COP 2001\Breakout_src\Final Project\slopeIntercept\line.cpp(155,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jjbur\OneDrive - Florida Gulf Coast University\2020_2021_School_Year\Spring_2021\COP 2001\Breakout_src\Final Project\slopeIntercept\line.cpp(156,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  slopeIntercept.cpp
+C:\Users\jjbur\OneDrive - Florida Gulf Coast University\2020_2021_School_Year\Spring_2021\COP 2001\Breakout_src\Final Project\slopeIntercept\slopeIntercept.cpp(251,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\jjbur\OneDrive - Florida Gulf Coast University\2020_2021_School_Year\Spring_2021\COP 2001\Breakout_src\Final Project\slopeIntercept\slopeIntercept.cpp(252,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  slopeIntercept.vcxproj -> C:\Users\jjbur\OneDrive - Florida Gulf Coast University\2020_2021_School_Year\Spring_2021\COP 2001\Breakout_src\Final Project\slopeIntercept\Debug\slopeIntercept.exe
